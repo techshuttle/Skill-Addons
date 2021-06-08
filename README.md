@@ -5,6 +5,10 @@ Collection of skillset or tools which are assumed to be known by software develo
 
 ### Writing good commit message
 https://www.freecodecamp.org/news/writing-good-commit-messages-a-practical-guide/
+### Writing good CL
+https://google.github.io/eng-practices/review/developer/
+### Code review guide
+https://google.github.io/eng-practices/review/reviewer/
 
 ## Soft skills
 -------------------------------------------------------------------------------------------------
